@@ -1,8 +1,8 @@
 ## Receita de bolo de cenoura
 
 
-#####Ingredientes**
-######Massa do Bolo
+##### Ingredientes**
+###### Massa do Bolo
 
     3 cenouras médias (250g)
     4 ovos
@@ -11,7 +11,7 @@
     2 xícaras (chá) de açúcar
     1 colher (sopa) de fermento em pó
 
-######Cobertura de Brigadeiro
+###### Cobertura de Brigadeiro
 
     1 Leite MOÇA® (lata ou caixinha) 395g
     1 colher (sopa) de manteiga
